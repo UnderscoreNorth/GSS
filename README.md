@@ -1,0 +1,2 @@
+# GSS
+Grand Strategy Simulator
